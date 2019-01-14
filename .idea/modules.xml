@@ -4,11 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-hystrix/eureka-hystrix.iml" filepath="$PROJECT_DIR$/eureka-hystrix/eureka-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-many/eureka-many.iml" filepath="$PROJECT_DIR$/eureka-many/eureka-many.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-producer/eureka-producer.iml" filepath="$PROJECT_DIR$/eureka-producer/eureka-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-producer_tow/eureka-producer_tow.iml" filepath="$PROJECT_DIR$/eureka-producer_tow/eureka-producer_tow.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_producer_two/eureka_producer_two.iml" filepath="$PROJECT_DIR$/eureka_producer_two/eureka_producer_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine-node1/hystrix-dashboard-turbine-node1.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine-node1/hystrix-dashboard-turbine-node1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine-node2/hystrix-dashboard-turbine-node2.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine-node2/hystrix-dashboard-turbine-node2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine-node2/hystrix-dashboard-turbine-node2.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine-node2/hystrix-dashboard-turbine-node2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloudEureka.iml" filepath="$PROJECT_DIR$/springCloudEureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
     </modules>
   </component>
 </project>

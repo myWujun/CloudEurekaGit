@@ -1,8 +1,7 @@
-package com.example.eurekaconsumer.controller;
+package com.example.hystrixdashboardturbinenode2.controller;
 
-import com.example.eurekaconsumer.feignInterface.HelloRemote;
+import com.example.hystrixdashboardturbinenode2.feignInterface.HelloRemote;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

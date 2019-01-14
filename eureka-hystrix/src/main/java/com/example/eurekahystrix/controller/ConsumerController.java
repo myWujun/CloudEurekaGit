@@ -1,16 +1,13 @@
-package com.example.eurekaconsumer.controller;
+package com.example.eurekahystrix.controller;
 
-import com.example.eurekaconsumer.feignInterface.HelloRemote;
+import com.example.eurekahystrix.feignInterface.HelloRemote;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author Administrator
  */
-@RestController
 public class ConsumerController {
     @Autowired
     HelloRemote helloRemote;

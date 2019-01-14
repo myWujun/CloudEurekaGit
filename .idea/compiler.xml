@@ -8,19 +8,27 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka" />
         <module name="eureka-consumer" />
+        <module name="eureka-hystrix" />
         <module name="eureka-many" />
         <module name="eureka-producer" />
         <module name="eureka_producer_two" />
+        <module name="hystrix-dashboard-turbine-node1" />
+        <module name="hystrix-dashboard-turbine-node2" />
         <module name="springCloudEureka" />
+        <module name="turbine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-hystrix" target="1.8" />
       <module name="eureka-many" target="1.8" />
       <module name="eureka-producer" target="1.8" />
       <module name="eureka_producer_two" target="1.8" />
+      <module name="hystrix-dashboard-turbine-node1" target="1.8" />
+      <module name="hystrix-dashboard-turbine-node2" target="1.8" />
       <module name="springCloudEureka" target="1.5" />
+      <module name="turbine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
